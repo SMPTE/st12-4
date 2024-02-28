@@ -13,7 +13,7 @@ Your feedback is welcome at https://github.com/SMPTE/st12-4/issues.
 
 The following element is made available for a public review period ending no earlier than 2024-04-01, and no later than 2024-04-29.
 
-*[PCD SMPTE ST 12-4] (https://github.com/SMPTE/st12-4/blob/main/32NF-PCD-ST-12-4-UTC-Aligned-Timecode-2024-01-29.docx)
+Please report issues at https://github.com/SMPTE/rp2096-2/issues 
 
 ## Details
 
