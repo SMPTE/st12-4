@@ -13,7 +13,7 @@ Your feedback is welcome at https://github.com/SMPTE/st12-4/issues.
 
 The following element is made available for a public review period ending no earlier than 2024-04-01, and no later than 2024-04-29.
 
-Please report issues at (https://github.com/SMPTE/st12-4/issues) 
+Please report issues at https://github.com/SMPTE/st12-4/issues
 
 ## Details
 
